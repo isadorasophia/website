@@ -1,0 +1,4 @@
+baseURL = 'http://isadorasophia.com/'
+languageCode = 'en-us'
+title = '👷'
+theme = "hermit"

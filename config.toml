@@ -1,4 +1,4 @@
-baseURL = 'http://isadorasophia.com/'
+baseURL = 'https://isadorasophia.com/'
 languageCode = 'en-us'
 title = '👷'
 theme = "hermit"

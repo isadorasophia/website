@@ -21,9 +21,7 @@ palette = "bubblegum"
 
 # Sidebar: about/bio
 [params.about]
-title = "risotto"
-description = "A [hugo](https://gohugo.io) theme inspired by terminal ricing."
-logo = "images/rice.svg"
+description = "![](/images/html/me.png)"
 
 # Sidebar: social links
 # Available icon sets:
@@ -31,19 +29,28 @@ logo = "images/rice.svg"
 # * Academicons <https://jpswalsh.github.io/academicons> ('ai ai-')
 
 [[params.socialLinks]]
-icon = "fa-brands fa-github"
-title = "GitHub"
-url = "https://github.com/joeroe/risotto"
+img = "/images/html/mastodon.png"
+imgHover = "/images/html/hovered.png"
+title = "mastodon"
+url = "https://mastodon.gamedev.place/@isadora"
 
 [[params.socialLinks]]
-icon = "fa-solid fa-envelope"
-title = "Email"
-url = "mailto:example@example.com"
+img = "/images/html/email.png"
+imgHover = "/images/html/hovered.png"
+title = "email"
+url = "mailto:isadorasophiagr@gmail.com"
 
 [[params.socialLinks]]
-icon = "ai ai-orcid"
-title = "ORCID"
-url = "https://orcid.org/0000-0001-2345-6789"
+img = "/images/html/github.png"
+imgHover = "/images/html/hovered.png"
+title = "github"
+url = "https://github.com/isadorasophia"
+
+[[params.socialLinks]]
+img = "/images/html/linkedin.png"
+imgHover = "/images/html/hovered.png"
+title = "linkedin"
+url = "https://www.linkedin.com/in/isadora-sophia-garcia-rodopoulos-488726107/"
 
 [menu]
   [[menu.main]]
@@ -62,7 +69,6 @@ series = "series"
 unsafe = true
 
 [privacy]
-
   [privacy.vimeo]
     disabled = false
     simple = true
@@ -81,7 +87,6 @@ unsafe = true
     privacyEnhanced = true
 
 [services]
-
   [services.instagram]
     disableInlineCSS = true
 

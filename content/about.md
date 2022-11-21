@@ -1,6 +1,6 @@
 +++
 title = "about"
-aliases = ["about-me", "contact"]
+aliases = ["about", "contact"]
 +++
 
 I'm a Brazilian software engineer who loves the idea of destroying all the gatekeeping that exists around software. I'm particularly passionate about making very complex systems sound so simple that a person can only think: "is that all?"

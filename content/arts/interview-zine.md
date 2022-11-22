@@ -7,6 +7,8 @@ tags = [
 ]
 +++
 
+_As I have been previously involved with university recruiting, I did this to help students interviewing with big techs. I only needed to finish the behavioral session and polish the remaining sketches! Someday, I will get back to this..._
+
 ![](/images/code-interview/capa-light.png)
 ![](/images/code-interview/page1.png)
 ![](/images/code-interview/page2.png)

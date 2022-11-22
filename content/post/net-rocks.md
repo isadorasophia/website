@@ -1,6 +1,6 @@
 +++
 author = "Isadora"
-title = ".NET Rocks!"
+title = ".NET Rocks! - Debugging Async Code"
 date = "2022-04-07"
 description = "Debugging Async Code"
 tags = [

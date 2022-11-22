@@ -3,7 +3,6 @@ author: Isadora
 title: Debugging the debugger
 date: 2019-03-14
 description: A talk explaining how to debug and how debuggers work
-math: true
 ---
 
 A talk explaining how debuggers work and what to expect when debugging your application.

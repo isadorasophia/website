@@ -9,6 +9,8 @@ I majored in computer science at [University of Campinas](https://ic.unicamp.br/
 
 ## I got a few patents over the years
 * [Data breakpoints on certain kinds of functions](https://patents.justia.com/patent/11392482)
+* [Hot reloading a running application with an unsaved source code change](https://patents.justia.com/patent/11573787)
+* [Source code editing combining edit and continue with hot reload](https://patents.justia.com/patent/20230080221)
 
 I'm also a game developer in my free time! I've been working on an ECS game engine (and a game) with [Saint11](http://saint11.org/).
 

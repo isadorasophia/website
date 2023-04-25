@@ -1,7 +1,7 @@
 baseURL = "/"
 title = "isadora"
 theme = "risotto"
-copyright = "🍌 2022"
+copyright = "🍌 2023"
 paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"

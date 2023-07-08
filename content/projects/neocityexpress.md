@@ -94,4 +94,4 @@ Overall, I learned A Lot from this. I guess I could take a couple of takeaways o
 2. Sleep and wake up early! Except on the last day. Anything goes on the last day.
 3. Eat healthy and make sure you have all the meals throughout the jam. Except on the last day, see item above.
 4. Each minute is precious. We started to measure tasks in minutes. It got to a point that we actually said stuff like: "I can do this, but it will take me 20 minutes, so it's not worth it".
-5. I actually did copy and paste something so I didn't spent 1 minute doing a method for it, see item above.
+5. I actually did copy and paste something so I didn't spend 1 minute doing a method for it, see item above.

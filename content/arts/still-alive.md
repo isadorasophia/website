@@ -1,7 +1,7 @@
 +++
 author = "Isadora"
 title = "still alive (unfinished)"
-date = "2022-11-18"
+date = "2020-11-18"
 tags = [
     "art"
 ]

@@ -1,7 +1,7 @@
 +++
 author = "Isadora"
 title = "how to code interview (unfinished)"
-date = "2022-11-18"
+date = "2020-01-18"
 tags = [
     "art"
 ]

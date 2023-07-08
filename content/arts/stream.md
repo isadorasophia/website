@@ -1,7 +1,7 @@
 +++
 author = "Isadora"
 title = "twitch channel: ndprafaze"
-date = "2022-11-18"
+date = "2021-01-18"
 tags = [
     "art"
 ]

@@ -21,7 +21,7 @@ palette = "bubblegum"
 
 # Sidebar: about/bio
 [params.about]
-description = "![](/images/html/me.png)"
+description = "<img src='/images/html/me.png'>"
 
 # Sidebar: social links
 # Available icon sets:

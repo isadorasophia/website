@@ -1,7 +1,7 @@
 baseURL = "/"
 title = "isadora"
 theme = "risotto"
-copyright = "🍌 2023"
+copyright = "🍌 2024"
 paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -92,3 +92,6 @@ unsafe = true
 
   [services.twitter]
     disableInlineCSS = true
+
+[markup.highlight]
+  noClasses = false

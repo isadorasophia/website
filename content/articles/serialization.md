@@ -820,11 +820,11 @@ As you remember (or not), I needed to manually collect all private fields of my 
 - Define common properties that would be automatically imported by children assemblies (in a text file?).
 - Expose the type information somewhere...??
 
-In the end, all I needed was simply to answer the following question: _"What are the serializable types in this assembly?"_. And I needed was to make this information into publicly available metadata.
+In the end, all I needed was simply to answer the following question: _"What are the serializable types in this assembly?"_. So I just had to make this information publicly available as metadata.
 
-Well, while figuring out how to reference the other assembly json options was indeed a problem, I was already defining a `SourceGenerationContext` for that assembly. I could just manually get all the `JsonSerializableAttribute` for the context and use the types defined there.
+Well, as referencing other `JsonSerializerOptions` turned out to be tricky, I realized was defining a `SourceGenerationContext` for that assembly. I could just manually get all the `JsonSerializableAttribute` for that context and use the types defined there.
 
-This code starts getting more verbose, but I do something more or less like this:
+The code starts getting more verbose, but I did something more or less like this:
 
 ```csharp
 private void PopulateFromParentAssembly(
@@ -885,7 +885,7 @@ I can pass the parent assemblies names to be scanned by declaring the assembly n
 </ItemGroup>
 ```
 
-And hooking it later at the `Initialize` code:
+And fetching it later at the `Initialize` code:
 
 ```csharp
 public void Initialize(IncrementalGeneratorInitializationContext context)
@@ -912,7 +912,7 @@ public void Initialize(IncrementalGeneratorInitializationContext context)
 }
 ```
 
-Joining the existing contexts was also easy since I already had the parent assembly name. I just needed to generate something more or less like this:
+Joining the existing contexts was also easy since I already had the parent assembly name. I just needed to generate the following code:
 
 ```csharp
 public static readonly JsonSerializerOptions Options = new()
@@ -996,7 +996,7 @@ public static string SaveSerialized<T>(T value, string path)
         relativeTo: "D:\\MyRootDirectory", path);
     string newPath = Path.Join("D:\\MyTempDirectory", relativePath);
 
-    SaveText(newPath, json);
+    SaveText(newPath, otherJson);
 
     return json;
 }

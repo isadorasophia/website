@@ -1019,6 +1019,6 @@ I was very happy to finish this whole thing (even this blog post ended up being 
 - Figure out an easy way to split between "compressed" (published) and human-readable (git) json files.
 - Improve error handling for deserialization errors.
 
-My initial goal was to make sure my game could work well with native AOT, which I was able to accomplish after changing my serialization. I didn't see any noticeable huge jumps in performance (...or no performance regressions), or at least nothing worth sharing. I'd even say that caching and parallelization went 80% of the way as far as performance went for me while working on this, but that's probably another blog post by itself...
+My initial goal was to make sure my game could work well with native AOT, which I was able to accomplish after changing my serialization. I didn't see any noticeable huge jumps in performance (...or performance regressions), at least nothing worth sharing. I'd even say that caching and parallelization went 80% of the way as far as performance went for me while working on this, but that's probably another blog post by itself...
 
 Anyway, I hope this helped you in one way or another! You can see the full source code in my [engine](https://github.com/isadorasophia/murder), [all of the code generator source code](https://github.com/isadorasophia/murder/tree/055558b8b9566fdc666b6cd32c52f5b518df3d69/src/Murder.Serializer) or even see it in practice with my [Hello World game](https://github.com/isadorasophia/hellomurder/).

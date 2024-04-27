@@ -1015,7 +1015,7 @@ After being able to save *all* my assets without any warnings, I knew I was conf
 
 I was very happy to finish this whole thing (even this blog post ended up being more of an adventure than I thought @_@). There are tons of things that I would like to pursue next, probably in the (very) near future...
 
-- Provide diagnostics warnings for best practices of the serializable types.
+- Provide diagnostic warnings with best practices for serializable types.
 - Figure out an easy way to split between "compressed" (published) and human-readable (git) json files.
 - Improve error handling for deserialization errors.
 

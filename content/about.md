@@ -12,6 +12,6 @@ I majored in computer science at [University of Campinas](https://ic.unicamp.br/
 * [Hot reloading a running application with an unsaved source code change](https://patents.justia.com/patent/11573787)
 * [Source code editing combining edit and continue with hot reload](https://patents.justia.com/patent/20230080221)
 
-I'm a game developer in my full time now! I've been working on an ECS game engine (and a game) with [Saint11](http://saint11.org/).
+I'm a full time game developer now! I've been working on [game engine](https://github.com/isadorasophia/murder) (and a game) with [Saint11](http://saint11.org/) as co-founder at [Coldblood Inc.](https://coldbloodinc.studio/)
 
 ![](/images/html/heart.png)

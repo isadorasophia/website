@@ -13,7 +13,7 @@ Neverway is [Coldblood Inc.](https://coldbloodinc.studio/)'s debut game.
 
 <!--more-->
 
-The game is funded by [Outersloth](https://www.innersloth.com/outersloth/) which I've been working on with a dream team. I'm incredibly excited to share more, BUT I can't yet! _Soon_, though!
+The game is funded by [Outersloth](https://www.innersloth.com/outersloth/) and I'm a co-director on the game with a dream team. I'm incredibly excited to share more, BUT I can't yet! _Soon_, though!
 
 In the meantime, here's some cool screenshots...
 

@@ -1,6 +1,6 @@
 +++
 aliases = ["projects"]
 title = "projects"
-author = "Hugo Authors"
+author = "Isadora"
 tags = ["projects"]
 +++

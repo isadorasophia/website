@@ -1,6 +1,6 @@
 +++
 aliases = ["blurbs"]
-title = "blurbs"
-author = "Hugo Authors"
+title = "rambles"
+author = "Isadora"
 tags = ["blurbs"]
 +++

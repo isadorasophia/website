@@ -13,6 +13,6 @@ Bang is a Entity Component System (ECS) framework implemented in C#.
 
 <!--more-->
 
-You can check the source and instructions on how to use Bang [here](https://github.com/isadorasophia/bang).
+I always loved the concept of data-oriented programming and I believe that ECS is a brilliant way to accomplish that!
 
-_I will write more here! This is actually interesting! Just give me time._
+You can check the source and instructions on how to use Bang [here](https://github.com/isadorasophia/bang).

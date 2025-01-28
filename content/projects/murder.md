@@ -13,6 +13,6 @@ Murder is a 2D pixel art ECS game engine.
 
 <!--more-->
 
-You can check the source and instructions on how to use Murder [here](https://github.com/isadorasophia/murder).
+I obviously have a lot of thoughts on this, but I will save it for another time. In the meantime, you can check [one of the talks](/post/tips-future-proof-engine/) I did about it.
 
-_I will write more here! This is actually interesting! Just give me time._
+You can check the source and instructions on how to use Murder [here](https://github.com/isadorasophia/murder). 

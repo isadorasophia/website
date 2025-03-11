@@ -1,7 +1,7 @@
 baseURL = "/"
 title = "isadora"
 theme = "risotto"
-copyright = "🍌 2024"
+copyright = "🍌 2025"
 paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -35,6 +35,12 @@ title = "mastodon"
 url = "https://mastodon.gamedev.place/@isadora"
 
 [[params.socialLinks]]
+img = "/images/html/bsky.png"
+imgHover = "/images/html/hovered.png"
+title = "bsky"
+url = "https://bsky.app/profile/isadora.codes"
+
+[[params.socialLinks]]
 img = "/images/html/email.png"
 imgHover = "/images/html/hovered.png"
 title = "email"
@@ -46,11 +52,11 @@ imgHover = "/images/html/hovered.png"
 title = "github"
 url = "https://github.com/isadorasophia"
 
-[[params.socialLinks]]
-img = "/images/html/linkedin.png"
-imgHover = "/images/html/hovered.png"
-title = "linkedin"
-url = "https://www.linkedin.com/in/isadora-sophia-rodopoulos-488726107/"
+#[[params.socialLinks]]
+#img = "/images/html/linkedin.png"
+#imgHover = "/images/html/hovered.png"
+#title = "linkedin"
+#url = "https://www.linkedin.com/in/isadora-sophia-rodopoulos-488726107/"
 
 [menu]
   [[menu.main]]

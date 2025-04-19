@@ -1,6 +1,6 @@
 +++
 author = "Isadora"
-title = "Why is async hard to debug?"
+title = "Visual Studio Toolbox - Why is async hard to debug?"
 date = "2021-06-10"
 description = "Series explaining how async works and how to debug in Visual Studio."
 tags = [

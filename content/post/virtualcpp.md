@@ -1,6 +1,6 @@
 +++
 author = "Isadora"
-title = "Pure Virtual C++ - Debugger"
+title = "Pure Virtual C++ - Debugger Showcase"
 date = "2023-06-01"
 description = "Demos on debugger features for Pure Virtual C++"
 tags = [
